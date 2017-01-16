@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Picasso-Review</string>
+    <string name="picass01">picass01</string>
+    <string name="picass02">picass02</string>
+    <string name="picass03">picass03</string>
+    <string name="picass04">picass04</string>
+    <string name="picass05">picass05</string>
+    <string name="picass06">picass06</string>
+    <string name="picass07">picass07</string>
+    <string name="picass08">picass08</string>
+    <string name="picass09">picass09</string>
+    <string name="picass10">picass10</string>
+    <string name="picass11">picass11</string>
+    <string name="picass12">picass12</string>
+    <string name="picass13">picass13</string>
+    <string name="picass14">picass14</string>
+    <string name="picass15">picass15</string>
+    <string name="picass16">picass16</string>
+    <string name="picass17">picass17</string>
+    <string name="picass18">picass18</string>
+    <string name="picass19">picass19</string>
+</resources>
