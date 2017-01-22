@@ -11,7 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:name=".App">
-        <activity android:name="picasso.com.picasso.PicassoActivity13">
+        <activity android:name="picasso.com.picasso.PicassoActivity16">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
